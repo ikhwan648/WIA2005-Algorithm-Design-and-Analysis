@@ -13,7 +13,7 @@
 3. Take a list, say for example this one:
 
   > a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
-
+  
   and write a program that prints out all the elements of the list that are less than 5.
 
 4. Create a program that asks the user for a number and then prints out a list of all the
@@ -24,6 +24,7 @@
 5. Take two lists, say for example these two:
 
   > a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+  > 
   > b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 
   and write a program that returns a list that contains only the elements that are common
@@ -42,8 +43,11 @@
   players want to start a new game)
 
   > Remember the rules:
+  > 
   > ● Rock beats scissors
+  > 
   > ● Scissors beats paper
+  > 
   > ● Paper beats rock
 
 9. Generate a random number between 1 and 9 (including 1 and 9). Ask the user to guess
@@ -69,8 +73,11 @@
     words. Print back to the user the same string, except with the words in backwards order.
 
     > For example, say I type the string:
+    > 
     > My name is Michele
+    > 
     > Then I would see the string:
+    > 
     > Michele is name My
 
     shown back to me.
